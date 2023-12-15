@@ -1,6 +1,6 @@
 <h1>Hey! I'm @jingzhiro :)</h1>
 
-I'm in my second year of exploring my interests (computer science and physics) at UNSW and branching out into other areas of knowledge.
+I'm in my second year of exploring computer science and physics and branching out into other areas of knowledge at UNSW.
 
 <h2>Projects</h2>
 
