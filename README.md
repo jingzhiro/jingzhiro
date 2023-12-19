@@ -4,8 +4,15 @@ I'm in my second year of exploring computer science and physics and branching ou
 
 <h2>Projects</h2>
 
-I'm currently learning HTML, CSS, and JavaScript as an introduction to web development. My website is currently in development.
+<h3>Website</h3>
+This website was an introduction to HTML, CSS, and JavaScript for web development. It was an insightful experience, giving a 
+glimpse into the process of user experience and interface designs when creating a website.
 <br>Access it here at <a href="https://jingzhiro.github.io" target="_blank">jingzhiro.github.io</a>.
+
+<h3>Type Test</h3>
+
+This project is an introduction to Python in hopes of exposing myself to object-orientated programming. This project is under development.
+
 <!---
 jingzhiro/jingzhiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
