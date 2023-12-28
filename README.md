@@ -9,9 +9,7 @@ This website was an introduction to HTML, CSS, and JavaScript for web developmen
 glimpse into the process of user experience and interface designs when creating a website.
 <br>Access it here at <a href="https://jingzhiro.github.io" target="_blank">jingzhiro.github.io</a>.
 
-<h3>Type Test</h3>
-
-This project is an introduction to Python in hopes of exposing myself to object-orientated programming. This project is under development.
+<h3>Python Project</h3>
 
 <!---
 jingzhiro/jingzhiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
