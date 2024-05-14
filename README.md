@@ -9,9 +9,9 @@ This website was an introduction to HTML, CSS, and JavaScript for web developmen
 glimpse into the process of user experience and interface designs when creating a website.
 <br>Access it here at <a href="https://jingzhiro.github.io" target="_blank">jingzhiro.github.io</a>.
 
-<h3>Python Project</h3>
+<h3>Godot Project</h3>
 
-Currently developing introductory python projects before moving onto a major project.
+Currently playing around with Godot project after developing basic Python games.
 <!---
 jingzhiro/jingzhiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
