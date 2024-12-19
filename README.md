@@ -6,7 +6,7 @@ I'm entering my third year of exploring computer science and physics, and branch
 
 <h3>Website</h3>
 This website was an introduction to HTML, CSS, and JavaScript for web development. It was an insightful experience, giving a 
-glimpse into the process of user experience and interface designs when creating a website.
+glimpse into the design process of user experience and interfaces when creating a website.
 <a href="https://jingzhiro.github.io" target="_blank">jingzhiro.github.io</a>.
 
 <h3>Nukie</h3>
