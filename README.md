@@ -11,8 +11,8 @@ glimpse into the design process of user experience and interfaces when creating 
 
 <h3>Nukie</h3>
 
-A general-purpose discord bot with weather and AI [WIP] capabilities.
-<!---
+A general-purpose, cat-themed discord bot with weather and AI capabilities using WeatherAPI and OpenAI.
+<!---t
 jingzhiro/jingzhiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
